@@ -1,0 +1,51 @@
+# Gradle files
+.gradle/
+build/
+gradle-wrapper.jar
+.gradletasknamecache
+
+# Android build files
+*.apk
+*.aar
+*.ap_
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Build generated files
+local.properties
+.cxx/
+*.dex
+
+# Kotlin
+.kotlin/
+*.kt.bak
+
+# KSP
+.ksp/
+
+# Android NDK
+obj/
+
+# Editor
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE Vscode
+.history/
+
